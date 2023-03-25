@@ -1,0 +1,6 @@
+# don't copy terrafrom code
+modules
+*.tf
+*.tfvars
+LICENSE
+README.md
